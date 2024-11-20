@@ -103,37 +103,37 @@ const leaves = [
     {
         name: "Moonstone",
         id: "moonstone",
-        img: "",
+        img: "spr_leaf_moonstone_0.png",
     },
     {
         name: "Sand",
         id: "sand",
-        img: "",
+        img: "spr_leaf_sand_0.png",
     },
     {
         name: "Ancient",
         id: "ancient",
-        img: "",
+        img: "spr_leaf_ancient_0.png",
     },
     {
         name: "Sacred Leaves",
         id: "sacred",
-        img: "",
+        img: "spr_leaf_sacred_0.png",
     },
     {
         name: "Biotite Leaves",
         id: "biotite",
-        img: "",
+        img: "spr_leaf_biotite_0.png",
     },
     {
         name: "Malachite Leaves",
         id: "malachite",
-        img: "",
+        img: "spr_leaf_malachite_0.png",
     },
     {
         name: "Hematite Leaves",
         id: "hematite",
-        img: "",
+        img: "spr_leaf_hematite_0.png",
     },
     {},
     {
@@ -226,17 +226,17 @@ const leaves = [
     {
         name: "Beer",
         id: "beer",
-        img: "",
+        img: "beer.png",
     },
     {
         name: "Mulch",
         id: "mulch",
-        img: "",
+        img: "mulch.png",
     },
     {
         name: "Shards",
         id: "shards",
-        img: "",
+        img: "shard.png",
     },
 ];
 
